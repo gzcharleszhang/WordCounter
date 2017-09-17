@@ -1,11 +1,5 @@
-# App Engine Standard Flask Tutorial App
+# Front-end Web App with Flask backend
 
-This sample shows how to use [Flask](http://flask.pocoo.org/) to handle
-requests, forms, templates, and static files on Google App Engine Standard.
+This app was initially built to integrate with a machine learning model using Keras API and tensorflow backend
 
-Before running or deploying this application, install the dependencies using
-[pip](http://pip.readthedocs.io/en/stable/):
-
-    pip install -t lib -r requirements.txt
-
-For more information, see the [App Engine Standard README](../../README.md)
+Built at Hack the North 2017
